@@ -1,13 +1,15 @@
-# Tic-tac-toe
+# Tic-Tac-Toe
 
 ## Challange
-- Using as little as possible different datatypes (It's just using strings and enums)
+- Using as little as possible different datatypes (string, enum)
 - The actual game logic happens bitwise
-- The source code is less than 100 lines of code (It propably could be even less)
 
 ## Changelog
-### Version 0.2 (June 8th, 2017)
+### Version 0.1.2 (October 24th, 2017)
+- [Fixed] The game now disables all buttons after someone won
+
+### Version 0.1.1 (June 8th, 2017)
 - [Fixed] Issue #1
 
-### Version 0.1 (June 6th, 2017))
+### Version 0.1.0 (June 6th, 2017))
 - Introduction
